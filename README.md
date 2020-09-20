@@ -1,4 +1,4 @@
-# Cashback Solution (Frontend) - Grupo Boticário
+# Cashback Solution - Frontend - Grupo Boticário
 
 ***Código disponibilizado apenas para os Avaliadores***
 
